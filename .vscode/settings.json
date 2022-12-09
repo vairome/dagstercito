@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./dagster_titanic/ops"
+    ]
+}
